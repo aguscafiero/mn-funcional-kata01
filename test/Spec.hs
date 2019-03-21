@@ -12,7 +12,7 @@ main = hspec $ do
           (calcuLoco 5 0) `shouldBe` 0
   
       it "el primer número es par y es menor que el segundo" $ do
-         (calcuLoco 4 7) `shouldBe` 12
+         (calcuLoco 4 7) `shouldBe` 21
 
       it "el primer número es par y es menor que el segundo - valor límite" $ do
          (calcuLoco 0 7) `shouldBe` 0
