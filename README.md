@@ -44,7 +44,7 @@ Y dentro del intérprete podremos evaluar la función con diferentes valores:
 *Main> calcuLoco 5 2
 10
 *Main> calcuLoco 4 7
-12
+21
 *Main> calcuLoco 9 10
 -1
 ```
