@@ -5,4 +5,4 @@ module Library
 import Lib
 
 calcuLoco :: Integer -> Integer -> Integer
-calcuLoco n1 n2 = 0
+calcuLoco ..
