@@ -3,7 +3,6 @@
 - Juan Contardo juan.contardo@gmail.com
 - Fernando Dodino fernando.dodino@gmail.com
   
-
 # Primera kata para resolver
 
 La primera kata que preparamos para que resuelvan solos comparte los objetivos de la anterior
@@ -30,7 +29,11 @@ Y para comenzar a trabajar con Git te recomendamos [este apunte inicial de Git](
 
 ## El enunciado
 
+<<<<<<< HEAD
 Resolver la función calcuLoco que recibe dos números
+=======
+Resolver la función `calcuLoco` que recibe dos números
+>>>>>>> b4a84c616b31fecbd288dba0de5e9fef32f6f873
 
 - si el primer número es mayor que el segundo, devuelve la multiplicación de ambos números
 - si no, si el primer número es par, devuelve el segundo número multiplicado por 3
@@ -38,19 +41,34 @@ Resolver la función calcuLoco que recibe dos números
 
 ## Pruebas
 
+<<<<<<< HEAD
 Podemos evaluar la función calcuLoco en la consola Haskell:
+=======
+Una vez resuelta la función `calcuLoco` podemos levantar el entorno Haskell:
+
+```bash
+stack ghci
+```
+
+Y dentro del intérprete podremos evaluar la función con diferentes valores:
+>>>>>>> b4a84c616b31fecbd288dba0de5e9fef32f6f873
 
 ```hs
 *Main> calcuLoco 5 2
 10
 *Main> calcuLoco 4 7
+<<<<<<< HEAD
 12
+=======
+21
+>>>>>>> b4a84c616b31fecbd288dba0de5e9fef32f6f873
 *Main> calcuLoco 9 10
 -1
 ```
 
 ## Testeo automatizado
 
+<<<<<<< HEAD
 Desde la terminal de Visual Studio Code escribimos estos dos comandos en el directorio del proyecto:
 
 ```bash
@@ -63,6 +81,18 @@ Nuestra solución tiene que estar escrita en el archivo `Solucion01.hs`, entonce
 ```bash
 > ghci Test01.hs
 > runTests
+=======
+Desde la terminal de Visual Studio Code escribimos:
+
+```bash
+stack build
+```
+
+Nuestra solución tiene que estar escrita en el archivo `Library.hs` del directorio `src`, entonces podemos correr pruebas **automatizadas** para nuestra función `calcuLoco`:
+
+```bash
+stack test
+>>>>>>> b4a84c616b31fecbd288dba0de5e9fef32f6f873
 ```
 
 Para conocer un poco más del testeo unitario automatizado recomendamos leer [este apunte](https://docs.google.com/document/d/17EPSZSw7oY_Rv2VjEX2kMZDFklMOcDVVxyve9HSG0mE/edit#)
