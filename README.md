@@ -2,7 +2,9 @@
 
 - Juan Contardo juan.contardo@gmail.com
 - Fernando Dodino fernando.dodino@gmail.com
-  
+
+[![CircleCI](https://circleci.com/gh/pdep-utn/XXXXXX.svg?style=svg)](https://circleci.com/gh/pdep-utn/XXXXXXXX)
+
 # Primera kata para resolver
 
 La primera kata que preparamos para que resuelvan solos comparte los objetivos de la anterior
