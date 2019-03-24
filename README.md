@@ -1,3 +1,9 @@
+# Integrantes
+
+- Juan Contardo juan.contardo@gmail.com
+- Fernando Dodino fernando.dodino@gmail.com
+  
+
 # Primera kata para resolver
 
 La primera kata que preparamos para que resuelvan solos comparte los objetivos de la anterior
