@@ -5,8 +5,6 @@
 - Juan Contardo (Juancete)
 - Fernando Dodino (fdodino)
 
-[![CircleCI](https://circleci.com/gh/pdep-utn/XXXXXX.svg?style=shield)](https://circleci.com/gh/pdep-utn/XXXXXX)
-
 ## Objetivos
 
 La primera kata que preparamos para que resuelvan solos comparte los objetivos de la anterior
