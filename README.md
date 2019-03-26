@@ -18,7 +18,7 @@ y de paso, fomentar el trabajo en equipo con un compañero, para comenzar a disc
 
 ## Pre-requisitos
 
-Necesitás instalar en tu notebook [el entorno Haskell](https://github.com/pdep-utn/enunciados-miercoles-noche/blob/master/pages/entorno-haskell.md)
+Necesitás instalar en tu notebook [el entorno Haskell](https://github.com/pdep-utn/enunciados-miercoles-noche/blob/master/pages/haskell/entorno.md)
 
 ## Ayuda
 
