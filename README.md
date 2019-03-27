@@ -58,13 +58,7 @@ Y dentro del intérprete podremos evaluar la función con diferentes valores:
 
 ## Testeo automatizado
 
-Desde la terminal de Visual Studio Code escribimos:
-
-```bash
-stack build
-```
-
-Nuestra solución tiene que estar escrita en el archivo `Library.hs` del directorio `src`, entonces podemos correr pruebas **automatizadas** para nuestra función `calcuLoco`:
+Nuestra solución tiene que estar escrita en el archivo `Library.hs` del directorio `src`, entonces podemos correr pruebas **automatizadas** para nuestra función `calcuLoco` en la terminal:
 
 ```bash
 stack clean
