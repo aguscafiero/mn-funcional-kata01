@@ -67,6 +67,7 @@ stack build
 Nuestra solución tiene que estar escrita en el archivo `Library.hs` del directorio `src`, entonces podemos correr pruebas **automatizadas** para nuestra función `calcuLoco`:
 
 ```bash
+stack clean
 stack test
 ```
 
